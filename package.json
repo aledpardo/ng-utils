@@ -1,0 +1,25 @@
+{
+  "name": "ng-utils",
+  "version": "0.1.0",
+  "description": "Utility(?) tools for Angular projects",
+  "main": "spec-look-up.js",
+  "scripts": {
+    "start": "node file-look-up.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aledpardo/ng-utils.git"
+  },
+  "keywords": [
+    "angular",
+    "angular-cli",
+    "tools"
+  ],
+  "author": "Alexandre Pardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aledpardo/ng-utils/issues"
+  },
+  "homepage": "https://github.com/aledpardo/ng-utils#readme"
+}
