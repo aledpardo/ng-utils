@@ -4,7 +4,7 @@
   "description": "Utility(?) tools for Angular projects",
   "main": "spec-look-up.js",
   "scripts": {
-    "start": "node file-look-up.js",
+    "start": "node --experimental-modules file-look-up.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
